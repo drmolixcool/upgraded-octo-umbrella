@@ -1,0 +1,19 @@
+{
+  "name": "pdf-beautifier-bot",
+  "version": "1.0.0",
+  "description": "Discord bot to cut PDF files in multiple images for easier display",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drmolixcool/upgraded-octo-umbrella.git"
+  },
+  "author": "drmolixcool",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drmolixcool/upgraded-octo-umbrella/issues"
+  },
+  "homepage": "https://github.com/drmolixcool/upgraded-octo-umbrella#readme"
+}
